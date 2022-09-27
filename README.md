@@ -1,5 +1,7 @@
 • A simple UI hulu-app
 
+• Bulit with NextJS
+
 • Lazy loading-images from Next/Images
 
 • API fetching from the movie database.
