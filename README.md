@@ -1,4 +1,4 @@
-• A simple UI hulu-app
+• A simple hulu-app
 
 • Bulit with NextJS
 
