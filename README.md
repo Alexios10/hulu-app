@@ -2,6 +2,8 @@
 
 • Bulit with NextJS
 
+• Fully responsiv
+
 • Lazy loading-images from Next/Images
 
 • API fetching from the movie database.
