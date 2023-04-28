@@ -39,7 +39,7 @@ const Movies = {
   },
   fetchTV: {
     title: "TV Movie",
-    url: `/discover/movie?api_key=${API_KEY}&with_genres=10778`,
+    url: `/discover/tv?api_key=${API_KEY}&with_genres=10778`,
   },
 };
 

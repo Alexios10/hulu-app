@@ -28,7 +28,7 @@ const Header = () => {
         className="object-contain"
         alt="hulu"
         src="https://1000logos.net/wp-content/uploads/2021/04/Hulu-logo.png"
-        width={80}
+        width={85}
         height={100}
       />
     </header>
